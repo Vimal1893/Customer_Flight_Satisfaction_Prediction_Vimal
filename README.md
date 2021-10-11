@@ -22,7 +22,8 @@ The test set contains **20781** rows and **23** columns.
 | Gender | Gender of the Passenger |
 | Satisfaction | If the passenger is satisfied or not |
 
-![enter image description here](https://www.google.com/url?sa=i&url=https://digital.hbs.edu/platform-rctom/submission/easyjet-reducing-delays-with-machine-learning/&psig=AOvVaw0dX9ATWHKK2bZLM8ztiSMm&ust=1634054348391000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD14_7cwvMCFQAAAAAdAAAAABAE)
+
+![enter image description here](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/data-aeroplane-adobestock_66154922-1-848x200.jpg)
 
 You can check the link [here](https://github.com/Vimal1893/Customer_Flight_Satisfaction_Prediction_Vimal/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb)
 :star: :fire: :star:
