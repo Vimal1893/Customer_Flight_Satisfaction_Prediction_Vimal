@@ -23,7 +23,8 @@ The test set contains **20781** rows and **23** columns.
 | Satisfaction | If the passenger is satisfied or not |
 
 
-![enter image description here](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/data-aeroplane-adobestock_66154922-1-848x200.jpg)
+ ![enter image description here](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/data-aeroplane-adobestock_66154922-1-848x200.jpg)
+
 
 You can check the link [here](https://github.com/Vimal1893/Customer_Flight_Satisfaction_Prediction_Vimal/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb)
 :star: :fire: :star:
